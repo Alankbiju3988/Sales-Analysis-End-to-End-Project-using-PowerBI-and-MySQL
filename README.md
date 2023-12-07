@@ -23,3 +23,5 @@
 - Consolidated insights into a final Power BI dashboard.
 - Highlighted top customers, countries, and employees for sales improvement.
 - Provided actionable insights for inventory reorganization based on business performance.
+
+#### For Detailed report you can view the project report in the folder
